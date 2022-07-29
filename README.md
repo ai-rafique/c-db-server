@@ -5,5 +5,4 @@ A simple C DB server that was part of a university assignment.
 
 It performs basic CRUD operations but not as sophisticated as using Insert Where.
 
-Operation Environment
-Ubuntu Linux
+Operational things can be found inside the zip fie uploaded. Copy away but learn what happens inside as well.
